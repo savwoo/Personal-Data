@@ -20,7 +20,7 @@ After doing some research I learned that a lot of employees leave because their 
  </table>
  
  # Analysis 
- 
+ For my analysis I wanted to use the simple box plots to see any outliers within job satisfaction which would be my main focus. For obvious reasons why I chose Job satisfaction to be my determining factor, if you're employees aren't happy at the workplace then they'll probably leave which is common sense. I wanted to see if this had any affect on people being married, single, or divorced. Overall it seemed that marriage and job satisfaction were the key determining factors on why people were leaving, both from research and from these vizualizations. As we can see from these two visualizations that whether it be age or years at company it didn't really matter for both age and years at company on why people were leaving this company, their job satisfaction stayed relatively the same overall, which help me conclude that people were either leaving for salary increase at a different company or their needs weren't being met with people starting their families whether that be worklife balance or not enough pay for their families. 
  
  <table>
   <tr><td><img src = "https://user-images.githubusercontent.com/91572975/145303254-c2dcb5be-d4d6-4694-993a-b13afe90dc92.png"></td><td><img src = "https://user-images.githubusercontent.com/91572975/145303226-ece271ea-0ac5-4537-b463-1bef62b2ec9f.png"><td></tr>
