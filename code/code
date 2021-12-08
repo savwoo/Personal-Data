@@ -1,1 +1,48 @@
+---
+title: "Personal Project"
+author: "David Woo"
+date: "12/9/21"
+output:
+  word_document: default
+  pdf_document: default
+---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+library(ggplot2)
+
+att <- read.csv("attrition.csv")
+read.csv("attrition.csv")
+attrition <- read.csv("attrition.csv")
+```
+
+```{r}
+ggplot(att, mapping = aes(x = MonthlyIncome, y = YearsAtCompany)) +
+  geom_point(aes(color = Attrition)) +
+  theme_bw() +
+  xlab('Monthly Income') +
+  ylab('Years w Company')
+```
+
+```{r}
+ggplot(attrition, mapping = aes(x = Age, y = Attrition)) +
+  geom_point(aes(color = MaritalStatus)) +
+  theme_bw()
+```
+```{r}
+
+m <- mean(attrition$JobSatisfaction)
+sdv <- sd(attrition$JobSatisfaction)
+
+hist(attrition$JobSatisfaction, prob = TRUE) 
+  
+curve(dnorm(x, mean = m, sd = sdv), add = TRUE)
+```
+```{r}
+
+boxplot(YearsAtCompany~JobSatisfaction, data = attrition, main = "Years At Company Job Satisfaction")
+boxplot(Age~JobSatisfaction, data = attrition, main = "Age Job Satisfaction")
+
+```
