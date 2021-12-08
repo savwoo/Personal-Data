@@ -11,10 +11,17 @@ I recieved this data set from Kaggle, it is based off a large company that is we
 ![employee](https://user-images.githubusercontent.com/91572975/144946153-af668516-2be8-439a-8001-becdda6e1030.png)
 
 # Visualization
+
+After doing some research I learned that a lot of employees leave because their worklife balance is not fit to their needs especially for those starting a family. As we can see from the martial status that the people that left the company were married from the mid 30's to 40's, my assumption from this table that the reason they left is because of them not having enough time to balance work and their family. If you looked at who stayed from that range of age most of them are single or divorced which was interesting to see. The reason why I added the job satisfaction graph is because I wanted a basic overview seeing if people wihtin this company actually enjoy their job. This graph indicates that many people did not enjoy thier time here at this company which makes sense on why a lot of people left. 
+
 <table>
   <tr><td><img src = "https://user-images.githubusercontent.com/91572975/145291628-310b95a2-9dc5-4edd-8e0a-43015385cbd1.png"></td><td><img src = "https://user-images.githubusercontent.com/91572975/145291684-cb1c76ef-12cc-45ef-8f96-25e58a716e41.png"><td></tr>
   <tr><td>Martial Status Attrtion</td><td>Job Satisfaction</td></tr>
  </table>
+ 
+ # Analysis 
+ 
+ 
 
 
 
