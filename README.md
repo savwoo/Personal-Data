@@ -22,6 +22,12 @@ After doing some research I learned that a lot of employees leave because their 
  # Analysis 
  
  
+ <table>
+  <tr><td><img src = "https://user-images.githubusercontent.com/91572975/145303254-c2dcb5be-d4d6-4694-993a-b13afe90dc92.png"></td><td><img src = "https://user-images.githubusercontent.com/91572975/145303226-ece271ea-0ac5-4537-b463-1bef62b2ec9f.png"><td></tr>
+  <tr><td>Job Sat Age</td><td>Job Sat Years at Company</td></tr>
+ </table>
+
+
 
 
 
