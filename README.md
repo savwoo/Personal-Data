@@ -27,6 +27,9 @@ After doing some research I learned that a lot of employees leave because their 
   <tr><td>Job Sat Age</td><td>Job Sat Years at Company</td></tr>
  </table>
 
+# References
+https://www.mckinsey.com/business-functions/people-and-organizational-performance/our-insights/married-to-the-job-no-more-craving-flexibility-parents-are-quitting-to-get-it
+https://www.inc.com/marcel-schwantes/why-are-people-really-leaving-their-jobs-whole-reason-can-be-summed-up-in-4-words.html
 
 
 
